@@ -1,7 +1,7 @@
 /*
 💗💗💗Authorized by Noore Mozassam💗💗💗
       💀💀💀Date :- 17/10/25💀💀💀 
-description :- Snake Game 2D (Improved Version).
+description :- Snake Game 2D.
 */
 
 #include <iostream>
@@ -278,3 +278,4 @@ int main()
 
     return 0;
 }
+
